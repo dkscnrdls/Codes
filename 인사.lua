@@ -1,0 +1,7 @@
+print("안녕하세요!!!!!!!")
+wait(5)
+print("어쩔티비ㅋ")
+wait(1)
+print("안물안궁ㅋ")
+wait(0.1)
+print("AI한테 말빨이 딸려?")
